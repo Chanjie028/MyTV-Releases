@@ -1,5 +1,5 @@
 {
-  "version": "1.4.50",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.50/myTV_1.4.50.apk",
-  "description": "1.4.50：扫码页新增 MyTV 目录浏览（编辑/重命名/删除），上传同名文件直接覆盖并修复闪退；新增直播录制（长按确认键开关、原画拉流、60 分钟/10G/500M 限制、左上角红点、换台自动停止），录像存 MyTV/Red。"
+  "version": "1.5.01",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.01/myTV_1.5.01.apk",
+  "description": "1.5.01：录制改为原始流直存，存 MyTV/Rec（不转码不封装）；扫码页上传与目录浏览合并为一个栏目，子目录可上传、带进度条可取消、单文件上限 2G，浏览只保留下载与删除；长按↓呼出快捷开关（时间/网速/录制）。"
 }
