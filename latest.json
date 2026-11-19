@@ -1,5 +1,5 @@
 {
-  "version": "1.5.03",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.03/myTV_1.5.03.apk",
-  "description": "1.5.03：默认直播源改为 GZSC 源（Chanjie028/IPTV 的 gzsc.txt），老版本升级后首次启动自动切换，直播源列表固定保留「默认直播源」且不可删除。"
+  "version": "1.5.04",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.04/myTV_1.5.04.apk",
+  "description": "1.5.04：精简设置页文案——界面里的台标显示、网速显示、换台界面，以及关于里的应用版本、代码仓库。"
 }
