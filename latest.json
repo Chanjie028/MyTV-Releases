@@ -1,5 +1,5 @@
 {
-  "version": "1.4.41",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.41/myTV-1.4.41-com.coocaa.iptv.apk",
-  "description": "1.4.41：关于页/扫码页显示代码仓库；应用更新改为自动匹配 Release 包并下载到 MyTV 文件夹（不覆盖、不自动安装）；网页加大行间距并清空自定义直播源标题与内容。"
+  "version": "1.4.42",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.42/myTV-1.4.42-com.coocaa.iptv.apk",
+  "description": "1.4.42：修复4K/卫视4K台标匹配不到——解析器归一化不再剥掉4K，CCTV-4K正确请求CCTV4K.png；缓存目录升v15重建；补台标诊断日志。"
 }
