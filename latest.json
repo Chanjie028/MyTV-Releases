@@ -1,1 +1,5 @@
-{"version": "9.9.9", "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.41/myTV-1.4.41-com.coocaa.iptv.apk", "description": "测试更新"}
+{
+  "version": "1.4.41",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.41/myTV-1.4.41-com.coocaa.iptv.apk",
+  "description": "1.4.41：关于页/扫码页显示代码仓库；应用更新改为自动匹配 Release 包并下载到 MyTV 文件夹（不覆盖、不自动安装）；网页加大行间距并清空自定义直播源标题与内容。"
+}
