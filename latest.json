@@ -1,5 +1,5 @@
 {
-  "version": "1.4.47",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.47/myTV-1.4.47-com.coocaa.iptv.apk",
-  "description": "1.4.47：应用更新迁移到关于页应用版本并修复版本匹配(Atom优先,下载到MyTV/New)；长按上键回看上一台/长按下键切换时间网速角标；扫码页控件左对齐+新增1024M通用文件上传到MyTV/TP。"
+  "version": "1.4.48",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.48/myTV-1.4.48-com.coocaa.iptv.apk",
+  "description": "1.4.48：修复扫码页标题/内容/UA输入框无法编辑；文件上传取消所有格式限制(accept=*/*，仍≤1024M保存到MyTV/TP)；修复长按↑回看上一台不准，长按后1.2秒内丢弃同键短按，稳定在最近两个频道间互切。"
 }
