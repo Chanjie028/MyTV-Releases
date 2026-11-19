@@ -1,5 +1,5 @@
 {
-  "version": "1.4.44",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.44/myTV-1.4.44-com.coocaa.iptv.apk",
-  "description": "1.4.44：台标恢复参照「我的电视」(top.yogiczy.mytv.tv) 的原图 Fit 大图显示，去掉裁边（裁边把四川卫视等宽幅台标从撑满94dp压到42dp）；换台信息栏/经典列表/菜单信息卡三处统一。"
+  "version": "1.4.45",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.45/myTV-1.4.45-com.coocaa.iptv.apk",
+  "description": "1.4.45：台标放大恢复为 1.4.38 的正确效果（三处调用点还原为裁边填满框，trimContent=true），其余配置沿用 1.4.42。"
 }
