@@ -1,5 +1,5 @@
 {
-  "version": "1.5.02",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.02/myTV_1.5.02.apk",
-  "description": "1.5.02：录制文件名改为 频道名_时间_节目名，单段上限 180 分钟，录制标识只留红点；长按遥控下键直接同时开关时间/网速/录制；扫码页文件上传下载移到直播源之前；设置与扫码页简介精简。"
+  "version": "1.5.03",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.03/myTV_1.5.03.apk",
+  "description": "1.5.03：默认直播源改为 GZSC 源（Chanjie028/IPTV 的 gzsc.txt），老版本升级后首次启动自动切换，直播源列表固定保留「默认直播源」且不可删除。"
 }
