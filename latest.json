@@ -1,5 +1,5 @@
 {
-  "version": "1.4.46",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.46/myTV-1.4.46-com.coocaa.iptv.apk",
-  "description": "1.4.46：央视/卫视/4K台标恢复1.4.38纯图形；修复键盘菜单键；关于页代码仓库点击弹二维码；网页title改myTV+GitHub图标；默认节目单加112114备选。"
+  "version": "1.4.47",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.47/myTV-1.4.47-com.coocaa.iptv.apk",
+  "description": "1.4.47：应用更新迁移到关于页应用版本并修复版本匹配(Atom优先,下载到MyTV/New)；长按上键回看上一台/长按下键切换时间网速角标；扫码页控件左对齐+新增1024M通用文件上传到MyTV/TP。"
 }
