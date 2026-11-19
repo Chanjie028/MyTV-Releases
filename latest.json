@@ -1,5 +1,5 @@
 {
-  "version": "1.5.01",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.01/myTV_1.5.01.apk",
-  "description": "1.5.01：录制改为原始流直存，存 MyTV/Rec（不转码不封装）；扫码页上传与目录浏览合并为一个栏目，子目录可上传、带进度条可取消、单文件上限 2G，浏览只保留下载与删除；长按↓呼出快捷开关（时间/网速/录制）。"
+  "version": "1.5.02",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.02/myTV_1.5.02.apk",
+  "description": "1.5.02：录制文件名改为 频道名_时间_节目名，单段上限 180 分钟，录制标识只留红点；长按遥控下键直接同时开关时间/网速/录制；扫码页文件上传下载移到直播源之前；设置与扫码页简介精简。"
 }
