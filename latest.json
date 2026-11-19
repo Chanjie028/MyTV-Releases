@@ -1,5 +1,5 @@
 {
-  "version": "1.5.5",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.5/myTV_1.5.5.apk",
-  "description": "1.5.5：录制文件名加时长、取消 10G 上限（剩 1G 自动停）、优先写最大 USB 外接盘；录制红点+已录时长移到网速下方；默认源改名 gzsc；界面一换台菜单改为影视仓风格。"
+  "version": "1.5.6",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.6/myTV_1.5.6.apk",
+  "description": "1.5.6：设置-播放器新增「录制时间显示」（关掉后录制中只在左上角显示小红点）；修复直播源长按删除后切到空本地源导致频道全空；换台界面一按影视仓 OSD 1:1 复刻并支持遥控器选台。"
 }
