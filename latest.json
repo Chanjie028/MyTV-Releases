@@ -1,5 +1,5 @@
 {
-  "version": "1.5.04",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.04/myTV_1.5.04.apk",
-  "description": "1.5.04：精简设置页文案——界面里的台标显示、网速显示、换台界面，以及关于里的应用版本、代码仓库。"
+  "version": "1.5.5",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.5/myTV_1.5.5.apk",
+  "description": "1.5.5：录制文件名加时长、取消 10G 上限（剩 1G 自动停）、优先写最大 USB 外接盘；录制红点+已录时长移到网速下方；默认源改名 gzsc；界面一换台菜单改为影视仓风格。"
 }
