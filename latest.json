@@ -1,5 +1,5 @@
 {
-  "version": "1.4.49",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.49/myTV_1.4.49.apk",
-  "description": "1.4.49：发行版安装包改名为 myTV_1.4.49.apk（去掉 -com.coocaa.iptv）；扫码页文件上传上限调整为 500M（不再限制格式，保存到 MyTV/TP）。"
+  "version": "1.4.50",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.4.50/myTV_1.4.50.apk",
+  "description": "1.4.50：扫码页新增 MyTV 目录浏览（编辑/重命名/删除），上传同名文件直接覆盖并修复闪退；新增直播录制（长按确认键开关、原画拉流、60 分钟/10G/500M 限制、左上角红点、换台自动停止），录像存 MyTV/Red。"
 }
