@@ -1,5 +1,5 @@
 {
-  "version": "1.5.8",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.8/myTV_1.5.8.apk",
-  "description": "1.5.8：修复本地源删除提示已删除但没执行(rename失败回退delete)；界面三改名+分组标题确认+长形台标裁边撑满；整体/字体缩放改网格弹窗并加自适应默认；界面一鼠标点击+竖线分隔+展开隐藏分类+5秒收起+文字加粗；预约整理进「节目」设置页；全局画面比例改「显示模式」弹出单选框。"
+  "version": "1.5.9",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.9/myTV_1.5.9.apk",
+  "description": "1.5.9：画面比例弹窗改成与直播源切换同款尺寸；界面一按影视仓实测交互1:1重做(上下键直接换台/确认键展开节目单/面板收窄+日期列+左侧竖标签)；界面三撤回分组标题改动、频道名居中、缺台标用全局序号填充。"
 }
