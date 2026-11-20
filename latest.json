@@ -1,5 +1,5 @@
 {
-  "version": "1.5.6",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.6/myTV_1.5.6.apk",
-  "description": "1.5.6：设置-播放器新增「录制时间显示」（关掉后录制中只在左上角显示小红点）；修复直播源长按删除后切到空本地源导致频道全空；换台界面一按影视仓 OSD 1:1 复刻并支持遥控器选台。"
+  "version": "1.5.7",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.7/myTV_1.5.7.apk",
+  "description": "1.5.7：界面一补齐影视仓「节目信息」两段式折叠与展开动画；界面三（下沉式）按「我的电视」坐标重排，台标在上、频道名在下；界面/字体缩放改为下抽屉 0.5×~2.0× 选中即时生效；全局画面比例六档；节目单新增节目预约（到点弹窗一键前往）；收藏新增「收藏换台边界跳出」；录制与录制时间显示改为开关；删除设置里的清除缓存与返回电视桌面；修复长按删除一个本地源会连带删掉多个本地源。"
 }
