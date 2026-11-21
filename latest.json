@@ -1,5 +1,5 @@
 {
-  "version": "1.6.2",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.2/myTV_1.6.2.apk",
-  "description": "1.6.2：界面一收藏栏（收藏开启即显示，长按频道收藏/取消）、分类文字居中、在播分组与频道统一蓝字高亮、面板任意视图 5 秒无操作自动向左隐藏、节目信息常规字重、长按节目单预约；直播源精简改为频道分组管理（底部 chips 抽屉，隐藏分组同步从换台面板/界面三/收藏过滤）。"
+  "version": "1.6.3",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.3/myTV_1.6.3.apk",
+  "description": "1.6.3：界面一节目单照界面二重做（节目名+▶在播标记+时间区间 HH:mm~HH:mm+日期+预约/已预约，确认键或鼠标点击即预约/取消）；频道序号改为整个大列表连续编号；鼠标点频道换台后面板不再立即关闭，改为 5 秒无操作才自动左隐藏。"
 }
