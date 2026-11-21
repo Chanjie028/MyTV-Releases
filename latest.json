@@ -1,5 +1,5 @@
 {
-  "version": "1.6.5",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.5/myTV_1.6.5.apk",
-  "description": "1.6.5：长按节目 = 预约 + 录制真正生效（已有普通预约会升级为预约+录制，不再被自己取消）；节目单里「已预约」前加录制小红点；菜单键→节目→节目信息新增「已预约」选项卡，可查看并确认取消预约。"
+  "version": "1.6.6",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.6/myTV_1.6.6.apk",
+  "description": "1.6.6：节目信息弹窗高度 90%、标题选项卡不再可选中（内容区左右键随时切换「节目单/已预约」）、3 秒无操作自动退出；界面一开启台标后频道列表每行显示台标，分类列收窄把位置让给台标、面板宽度不变。"
 }
