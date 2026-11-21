@@ -1,5 +1,5 @@
 {
-  "version": "1.6.3",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.3/myTV_1.6.3.apk",
-  "description": "1.6.3：界面一节目单照界面二重做（节目名+▶在播标记+时间区间 HH:mm~HH:mm+日期+预约/已预约，确认键或鼠标点击即预约/取消）；频道序号改为整个大列表连续编号；鼠标点频道换台后面板不再立即关闭，改为 5 秒无操作才自动左隐藏。"
+  "version": "1.6.4",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.4/myTV_1.6.4.apk",
+  "description": "1.6.4：修复预约记错频道（界面二按节目单所属频道记录），预约提醒频道匹配放宽，立即前往能正确跳台；录像模式下长按节目 = 预约 + 录制，到点弹框倒计时 5 秒自动进入预约频道并立即开录；设置-界面在界面一时只保留有效项；菜单键删除多线路与直播源按钮。"
 }
