@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.0/myTV_1.6.0.apk",
-  "description": "1.6.0：界面一按影视仓APK反编译结果1:1重做（中文字重/面板宽838、上下键移动焦点不换台、右键进节目信息标签、确认展开节目单、更多节目返回分类频道、节目时间无则不显示）；界面三修复央视/收藏确认键无反应（确认键独立处理+上键DOWN阶段处理）、频道名居中、缺台标显示全局序号；本地源长按删除实测通过；设置页弹窗全部不透明。"
+  "version": "1.6.1",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.1/myTV_1.6.1.apk",
+  "description": "1.6.1：界面一拆成两套视图——A分类/B频道列表，点右侧B1「节目信息」后A、B向左隐藏，只显示C节目信息+D时间日期（面板630px，明显窄于A/B的837px），左侧B2「更多节目」返回A/B；B1、B2鼠标点击立即生效且不产生高亮，遥控器焦点到按钮才亮蓝底；C/D下5秒无操作面板自动向左隐藏（点B2回列表后同样5秒隐藏）；节目单补频道名兜底匹配，无EPG时间则D列留空白。"
 }
