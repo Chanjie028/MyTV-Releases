@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.1/myTV_1.6.1.apk",
-  "description": "1.6.1：界面一拆成两套视图——A分类/B频道列表，点右侧B1「节目信息」后A、B向左隐藏，只显示C节目信息+D时间日期（面板630px，明显窄于A/B的837px），左侧B2「更多节目」返回A/B；B1、B2鼠标点击立即生效且不产生高亮，遥控器焦点到按钮才亮蓝底；C/D下5秒无操作面板自动向左隐藏（点B2回列表后同样5秒隐藏）；节目单补频道名兜底匹配，无EPG时间则D列留空白。"
+  "version": "1.6.2",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.2/myTV_1.6.2.apk",
+  "description": "1.6.2：界面一收藏栏（收藏开启即显示，长按频道收藏/取消）、分类文字居中、在播分组与频道统一蓝字高亮、面板任意视图 5 秒无操作自动向左隐藏、节目信息常规字重、长按节目单预约；直播源精简改为频道分组管理（底部 chips 抽屉，隐藏分组同步从换台面板/界面三/收藏过滤）。"
 }
