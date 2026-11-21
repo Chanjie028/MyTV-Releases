@@ -1,5 +1,5 @@
 {
-  "version": "1.6.4",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.4/myTV_1.6.4.apk",
-  "description": "1.6.4：修复预约记错频道（界面二按节目单所属频道记录），预约提醒频道匹配放宽，立即前往能正确跳台；录像模式下长按节目 = 预约 + 录制，到点弹框倒计时 5 秒自动进入预约频道并立即开录；设置-界面在界面一时只保留有效项；菜单键删除多线路与直播源按钮。"
+  "version": "1.6.5",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.5/myTV_1.6.5.apk",
+  "description": "1.6.5：长按节目 = 预约 + 录制真正生效（已有普通预约会升级为预约+录制，不再被自己取消）；节目单里「已预约」前加录制小红点；菜单键→节目→节目信息新增「已预约」选项卡，可查看并确认取消预约。"
 }
