@@ -1,5 +1,5 @@
 {
-  "version": "1.5.9",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.5.9/myTV_1.5.9.apk",
-  "description": "1.5.9：画面比例弹窗改成与直播源切换同款尺寸；界面一按影视仓实测交互1:1重做(上下键直接换台/确认键展开节目单/面板收窄+日期列+左侧竖标签)；界面三撤回分组标题改动、频道名居中、缺台标用全局序号填充。"
+  "version": "1.6.0",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.0/myTV_1.6.0.apk",
+  "description": "1.6.0：界面一按影视仓APK反编译结果1:1重做（中文字重/面板宽838、上下键移动焦点不换台、右键进节目信息标签、确认展开节目单、更多节目返回分类频道、节目时间无则不显示）；界面三修复央视/收藏确认键无反应（确认键独立处理+上键DOWN阶段处理）、频道名居中、缺台标显示全局序号；本地源长按删除实测通过；设置页弹窗全部不透明。"
 }
