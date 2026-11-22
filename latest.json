@@ -1,5 +1,5 @@
 {
-  "version": "1.6.8",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.8/myTV_1.6.8.apk",
-  "description": "1.6.8 正式版：节目信息弹窗高度改为屏幕 95%，修复顶部/底部内容被边框遮挡，节目单长按支持预约+录制；触摸左半屏呼出换台面板、右半屏呼出菜单键；界面超时自动关闭改为弹出框，可选 3/5/10/15/20/25/30 秒；画面/字体缩放比例改为从小到大排列；更新包下载完成后的简介精简。"
+  "version": "1.6.9",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.9/myTV_1.6.9.apk",
+  "description": "v1.6.9 正式版：修复节目弹窗列表无法滚动（TvLazyListState 未 remember + 列表未撑满），上下键/鼠标滚轮可浏览全部节目；超时自动关闭界面弹框改为画面缩放同款网格样式，可选 3/5/10/15/20/25/30 秒。"
 }
