@@ -1,5 +1,5 @@
 {
-  "version": "1.6.9",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.6.9/myTV_1.6.9.apk",
-  "description": "v1.6.9 正式版：修复节目弹窗列表无法滚动（TvLazyListState 未 remember + 列表未撑满），上下键/鼠标滚轮可浏览全部节目；超时自动关闭界面弹框改为画面缩放同款网格样式，可选 3/5/10/15/20/25/30 秒。"
+  "version": "1.7.5",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.7.5/myTV_1.7.5.apk",
+  "description": "v1.7.5 手机版：首页缩略图改为可播放预览，点击就地播放、滑出屏幕自动停止；全局顶部留白改为 3%（含播放页）；新增播放历史；系统新增字体与界面大小适配；设置页播放管理置顶并移除重复显示模式与开机自启；直播源名称超长自动省略。"
 }
