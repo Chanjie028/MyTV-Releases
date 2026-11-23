@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.8.0/myTV_1.8.0.apk",
-  "description": "v1.8.0 手机版：字体仅小/中/大三档；缩略图延时角标收窄，首页刷新只更新缩略图不重拉直播源；播放页分类并入底部导航并随小横条整屏滑动，收藏移到标题栏，网速移至右下角且点画面时隐藏；设置页重归为播放管理/功能/系统三板块，新增清除缓存，子页弹窗全部贴底。"
+  "version": "1.8.1",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.8.1/myTV_1.8.1.apk",
+  "description": "v1.8.1 手机版：首页缩略图自动抓帧（未抓到时中央显示台标），单行缩略图控件 1 秒收起，播放页返回与直播源名合并为一个按钮、分类显示频道数量并可跳转，翻页一次只翻一页，设置页重归为播放管理/功能/系统并精简文案，底栏改为「设置」。"
 }
