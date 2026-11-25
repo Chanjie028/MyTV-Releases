@@ -1,6 +1,6 @@
 {
-  "version": "1.9.5",
-  "downloadUrl": "https://raw.githubusercontent.com/Chanjie028/MyTV-Releases/main/myTV_1.9.5.apk",
-  "description": "v1.9.5 手机版：药丸只在频道首页显示，整体不透明度 10%，宽度随内容自适应，录制时仅显示纯时间；单行列表页播放优先，频道列表就绪即起播不再等封面加载；配置页当前源勾选改为绿色圆角块+白色对勾。含 1.9.3/1.9.4 改动：设置归类调整、系统提示统一自绘胶囊、切换频道自动停录、药丸停止键右对齐等。",
-  "versionCode": 445
+  "version": "1.9.6",
+  "downloadUrl": "https://raw.githubusercontent.com/Chanjie028/MyTV-Releases/main/myTV_1.9.6.apk",
+  "description": "v1.9.6 手机版：药丸透明度回退到上一版（仅背景 10%，文字清晰）；药丸只在频道首页显示，宽度随内容自适应，录制时仅显示纯时间；单行列表页播放优先，频道列表就绪即起播不再等封面加载；配置页当前源勾选改为绿色圆角块+白色对勾。含 1.9.3~1.9.5 设置归类、提示胶囊、切换频道自动停录等改动。",
+  "versionCode": 446
 }
