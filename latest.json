@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.9.2/myTV_1.9.2.apk",
-  "description": "v1.9.2 手机版：修复录制红点在荣耀/魅族均不闪（改定时翻转颜色的重组重绘）；播放设置中录制时显示已录制时长；节目单选择/新增/阈值三个弹窗提升到根级修复错位；取消首页下拉水滴刷新并还原板块；单列切多行自动开后台播放调出小药丸并修复荣耀单列不能播；设置页「界面」改名「显示」并入播放栏目，功能与界面合并为「界面与功能」，录制功能移到后台播放下面。",
-  "versionCode": 442
+  "version": "1.9.5",
+  "downloadUrl": "https://github.com/Chanjie028/MyTV-Releases/releases/download/v1.9.5/myTV_1.9.5.apk",
+  "description": "v1.9.5 手机版：药丸只在频道首页显示，整体不透明度 10%，宽度随内容自适应，录制时仅显示纯时间；单行列表页播放优先，频道列表就绪即起播不再等封面加载；配置页当前源勾选改为绿色圆角块+白色对勾。含 1.9.3/1.9.4 改动：设置归类调整、系统提示统一自绘胶囊、切换频道自动停录、药丸停止键右对齐等。",
+  "versionCode": 445
 }
