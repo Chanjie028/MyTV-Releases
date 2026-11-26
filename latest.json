@@ -1,6 +1,6 @@
 {
-  "version": "1.9.6",
-  "downloadUrl": "https://raw.githubusercontent.com/Chanjie028/MyTV-Releases/main/myTV_1.9.6.apk",
-  "description": "v1.9.6 手机版：药丸透明度回退到上一版（仅背景 10%，文字清晰）；药丸只在频道首页显示，宽度随内容自适应，录制时仅显示纯时间；单行列表页播放优先，频道列表就绪即起播不再等封面加载；配置页当前源勾选改为绿色圆角块+白色对勾。含 1.9.3~1.9.5 设置归类、提示胶囊、切换频道自动停录等改动。",
-  "versionCode": 446
+  "version": "1.9.9",
+  "downloadUrl": "https://raw.githubusercontent.com/Chanjie028/MyTV-Releases/main/myTV_1.9.9.apk",
+  "description": "v1.9.9 手机版正式版：单行列表播放优先且药丸生效、停止后滑到新频道自动续播，修复单行/多行来回切换不能播 / 后台播放固定由设置开关控制、药丸停止不关开关、仅在频道首页显示且宽度自适应 / 设置项（网络与调试、序号、分类、台标、显示模式）改为可观察即时生效，直播源当前项改勾选、台标可单独关闭 / Toast 改自绘胶囊提示，新增 FPS 与播放元数据调试浮层 / Media3 升 1.4.1 修复电视端 4K HLG 偏暗。",
+  "versionCode": 449
 }
