@@ -1,6 +1,6 @@
 {
-  "version": "1.9.9",
-  "downloadUrl": "https://raw.githubusercontent.com/Chanjie028/MyTV-Releases/main/myTV_1.9.9.apk",
-  "description": "v1.9.9 手机版正式版：单行列表播放优先且药丸生效、停止后滑到新频道自动续播，修复单行/多行来回切换不能播 / 后台播放固定由设置开关控制、药丸停止不关开关、仅在频道首页显示且宽度自适应 / 设置项（网络与调试、序号、分类、台标、显示模式）改为可观察即时生效，直播源当前项改勾选、台标可单独关闭 / Toast 改自绘胶囊提示，新增 FPS 与播放元数据调试浮层 / Media3 升 1.4.1 修复电视端 4K HLG 偏暗。",
-  "versionCode": 449
+  "version": "1.9.10",
+  "downloadUrl": "https://raw.githubusercontent.com/Chanjie028/MyTV-Releases/main/myTV_1.9.10.apk",
+  "description": "v1.9.10 手机版正式版：荣耀/华为改硬解优先(视频软解改手动开关)修复卡顿与1080i隔行横条 / 单行播放与全屏播放不主动锁屏、后台播放(小药丸)用 WakeLock+WiFiLock 保活锁屏续播、关闭后单行可播不出药丸切多行停播 / 预埋强制更新钩子(forceUpdateVersion 默认不强制) / 播放页顶栏44改38dp、节目序号在台标前显示 / 修复画中画返回与退出后小窗残留 / 修复切源后返回首页反复转圈误报没有解析到频道(加载令牌防并发覆盖+失败降级+重试收敛)。",
+  "versionCode": 450
 }
