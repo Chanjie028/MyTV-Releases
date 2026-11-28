@@ -1,6 +1,6 @@
 {
-  "version": "1.9.12",
-  "downloadUrl": "https://raw.githubusercontent.com/Chanjie028/MyTV-Releases/main/myTV_1.9.12.apk",
-  "description": "v1.9.12 正式版：设置页与节目单显示软件运行时长与频道播放时长 / 首次须知与激活合并单页并重做界面（深蓝渐变、完整须知、半屏输入框、双激活按钮） / 移除 Android12 启动图标页且强制更新改后台检查，冷启动直接进界面 / 下线平板模式 / 手机列表点击去掉涟漪动画 / 恢复 2.35:1 / 荣耀华为切源绿屏按机型自动软解",
-  "versionCode": 452
+  "version": "1.9.13",
+  "downloadUrl": "https://raw.githubusercontent.com/Chanjie028/MyTV-Releases/main/myTV_1.9.13.apk",
+  "description": "v1.9.13 正式版：应用图标换成深灰底+白色电视轮廓+红色播放三角（自适应矢量、各密度位图、单色图标） / 手机版整站配色改为图标同源的红+深灰（主色 #D81D23，深色版 #14161B、卡片 #1D2129、亮红 #F0444C） / 激活页换风格（深灰渐变+红色微光背景、标题红三角、输入框改实心卡片+红色聚焦描边、主按钮红实心胶囊+副按钮幽灵描边）",
+  "versionCode": 453
 }
